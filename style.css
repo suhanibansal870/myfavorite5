@@ -109,3 +109,6 @@ img:hover{
 #Contact{
     background: linear-gradient(90deg, rgba(249,114,0,1) 0%, rgba(255,252,114,1) 50%, rgba(97,255,122,1) 100%);
 }
+a{
+    text-decoration:none;
+}
